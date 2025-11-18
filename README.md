@@ -19,7 +19,7 @@ git clone --depth=1
 https://github.com/Parvez090975/Marco-404
 cd Marco-404
 git pull
-python Marco.py
+python test.py
 ```
 # Contact
 
